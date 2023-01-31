@@ -1,0 +1,14 @@
+{
+  "name": "github-chart-stats",
+  "version": "1.0.0",
+  "description": "show github stats on charts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "Ehsan Ghaffar",
+  "license": "ISC"
+}
